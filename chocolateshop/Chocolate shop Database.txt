@@ -1,0 +1,21 @@
+Online Chocolate shop management system
+
+Database nazim nazim
+
+Table name emp_rec
+Emp_ID, Emp_Name, Emp_Address, Emp_Phone, Emp_Email, Emp_Salary, Emp_Desigration, Emp_Password
+
+Table name message
+name, email, mess
+
+Table name order_table
+or_id, or_price, or_user
+
+Table name product
+pro_table, Pro_Id, Pro_name, Pro_Price, Pro_Count
+
+Table name pro_table
+Pro_Id, Pro_name, Pro_Price, Pro_Count
+
+Table name user
+name, address, phone, email, pass
